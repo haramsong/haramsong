@@ -8,7 +8,7 @@
 
 *  Hobby : Playing Instruments(Piano, Guitar(Acoustic, Electric), Drum)
 *  Weight loss 135kg to 92kg in 1 year
-*  Able to 
+*  Able to implement system with system
 
 ## Certificates
 
