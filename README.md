@@ -1,23 +1,22 @@
 # Haram Song
 
-* 👨‍🎓 Pusan National Univ. Mathematics
-* ❤️ Python, PHP, HTML, Java! 👍
+* Majoring in Mathematics, Pusan National Univ. 
+* Skillful at Python, PHP, HTML(CSS, JavaScript), MySQL, Java
 * Eager to develop & release self-made program  
 
 ## About Me
 
 *  Able to implement system by procedural programming
 *  Hobby : Playing Instruments(Piano, Guitar(Acoustic, Electric), Drum)
-*  Weight loss 135kg to 92kg in 1 year
 *  Watch my resume <a href="https://github.com/haramsong/haramsong">here</a><br>
    
 
 ## Certificates
 
-*  TOEIC 925 graded
+*  TOEIC 925(2017.02.10.) / 890(2021.12.05) graded
   
 
-<details><summary><b>Repository</b>  (👈Click Me!)</summary>
+<details><summary><b>Repository</b>  (Click)</summary>
        <h4>
            👨‍💼 Comapny & Internship 
     	</h4>
