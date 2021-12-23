@@ -6,7 +6,7 @@
 
 ## About Me
 
-*  Able to implement system by procedural programming
+*  Able to design & implement system by procedural programming
 *  Hobby : Playing Instruments(Piano, Guitar(Acoustic, Electric), Drum)
 *  Watch my resume <a href="https://github.com/haramsong/haramsong">here</a><br>
    
