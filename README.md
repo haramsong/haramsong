@@ -6,9 +6,10 @@
 
 ## About Me
 
+*  Able to implement system by procedural programming
 *  Hobby : Playing Instruments(Piano, Guitar(Acoustic, Electric), Drum)
 *  Weight loss 135kg to 92kg in 1 year
-*  Able to implement system with system
+
 
 ## Certificates
 
@@ -25,13 +26,16 @@
         💻 Personal Project
     </h4>
     <p>
-        1. [Member Management] Ping-pong member management system with personal GUI <a href="https://github.com/haramsong/membermgmt">repo</a><br>
+        1. [Apartment Management] Apartment management system <a href="https://github.com/haramsong/apartment">repo</a><br>
     </p>
     <p>
-        2. [Cram School Management] Cram school schedule, data management system based on system development methodology procedure <a href="https://github.com/haramsong/hakwonmgmt">repo</a><br>
+        2. [Member Management] Member management system with personal GUI <a href="https://github.com/haramsong/membermgmt">repo</a><br>
     </p>
     <p>
-        3. [Random Class Scheduler] Random class scheduler for university based on system development methodology procedure <a href="https://github.com/haramsong/classschedule">repo</a><br>
+        3. [Cram School Management] Cram school schedule, data management system based on system development methodology procedure <a href="https://github.com/haramsong/hakwonmgmt">repo</a><br>
+    </p>
+    <p>
+        4. [Random Class Scheduler] Random class scheduler for university based on system development methodology procedure <a href="https://github.com/haramsong/classschedule">repo</a><br>
     </p>
 </details>
 
