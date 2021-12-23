@@ -9,7 +9,8 @@
 *  Able to implement system by procedural programming
 *  Hobby : Playing Instruments(Piano, Guitar(Acoustic, Electric), Drum)
 *  Weight loss 135kg to 92kg in 1 year
-
+*  Watch my resume <a href="https://github.com/haramsong/haramsong">here</a><br>
+   
 
 ## Certificates
 
