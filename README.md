@@ -1,6 +1,6 @@
 # Haram Song
 
-* Majoring in Mathematics, Pusan National Univ. 
+* Majoring in Mathematics, Pusan National Univ.(Graduate on Feb.2022.)
 * Skillful at Python, PHP, HTML(CSS, JavaScript), MySQL, Java
 * Eager to develop & release self-made program  
 
