@@ -1,20 +1,20 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Haram%20Song&fontSize=50&animation=twinkling&fontAlign=68&fontAlignY=36)
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&fontColor=ffffff&text=Haram%20Song&fontSize=50&animation=twinkling&fontAlign=68&fontAlignY=36)
 
 
 ## 🙏 Introduction
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+Haram's+Repo)](https://git.io/typing-svg)
 
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white" />
-<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/React%20Native-61DAFB?logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Nuxt-00DC82?logo=nuxtdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"  style="margin-right: 10px;" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"  style="margin-right: 10px;" />
+<img src="https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white"  style="margin-right: 10px;" />
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white"  style="margin-right: 10px;" />
+<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black"  style="margin-right: 10px;" />
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"  style="margin-right: 10px;" />
+<img src="https://img.shields.io/badge/React%20Native-61DAFB?logo=react&logoColor=black"  style="margin-right: 10px;" />
+<img src="https://img.shields.io/badge/Nuxt-00DC82?logo=nuxtdotjs&logoColor=white"  style="margin-right: 10px;" />
+<img src="https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=white"  style="margin-right: 10px;" />
+<img src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white"  style="margin-right: 10px;" />
 
 
 ## 😄 About Me
