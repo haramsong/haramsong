@@ -7,19 +7,19 @@
 
 <img src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white"  />&nbsp;
 <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"  />&nbsp;
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"  />&nbsp;
-<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=black"  />&nbsp;
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white"  />&nbsp;
+<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white"  />&nbsp;
 <img src="https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white"  />&nbsp;
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white"  />&nbsp;
 <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black"  />&nbsp;
 <img src="https://img.shields.io/badge/React%20Native-61DAFB?logo=react&logoColor=black"  />&nbsp;
 <img src="https://img.shields.io/badge/Nuxt-00DC82?logo=nuxt&logoColor=white"  />&nbsp;
-<img src="https://img.shields.io/badge/AWS-FF9900?logo=amazonwebservices&logoColor=white"  />&nbsp;
+<img src="https://img.shields.io/badge/AWS-FF9900?logo=amazonwebservices&logoColor=black"  />&nbsp;
 <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"  />&nbsp;
 <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white"  />&nbsp;
 <img src="https://img.shields.io/badge/Github%20Action-2088FF?logo=githubactions&logoColor=white"  />&nbsp;
 <img src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white"  />&nbsp;
-<img src="https://img.shields.io/badge/Vault-FFEC6E?logo=vault&logoColor=white"  />&nbsp;
+<img src="https://img.shields.io/badge/Vault-FFEC6E?logo=vault&logoColor=black"  />&nbsp;
 
 
 ## 😄 About Me
