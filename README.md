@@ -66,6 +66,7 @@
 
 ## 🏅 My badges
 <!--START_SECTION:badges-->
+[![HashiCorp Certified: Terraform Associate (003)](https://images.credly.com/size/110x110/images/85b9cfc4-257a-4742-878c-4f7ab4a2631b/image.png)](http://www.credly.com/badges/e2705e8b-1657-40bc-9e7d-d7d5c175eb5b "HashiCorp Certified: Terraform Associate (003)")
 [![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](http://www.credly.com/badges/e28707e2-1102-473f-84f7-406ac0167092 "AWS Certified Solutions Architect – Associate")
 [![AWS Certified Cloud Practitioner](https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](http://www.credly.com/badges/ac6dd20f-5b14-4db8-83f3-0b6451e87643 "AWS Certified Cloud Practitioner")
 <!--END_SECTION:badges-->
