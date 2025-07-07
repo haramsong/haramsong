@@ -60,8 +60,9 @@
 *  TOEIC 925(2017.02.10.) / 890(2021.12.05) graded
 *  SQLD(2023.04.)
 *  AWS Cloud Practicioner(2023.12.)
-*  AWS Solutions Architect(2024.08.)
+*  AWS Solutions Architect - Associate(2024.08.)
 *  Hashicorp Terraform Associate(2025.01.)
+*  AWS Solutions Architect - Professional(2025.07.)
   
 
 ## 🏅 My badges
