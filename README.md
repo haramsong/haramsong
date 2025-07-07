@@ -67,7 +67,9 @@
 
 ## 🏅 My badges
 <!--START_SECTION:badges-->
-[![HashiCorp Certified: Terraform Associate (003)](https://images.credly.com/size/110x110/images/ed4be915-68f8-428a-b332-40ded9084ee5/blob)](http://www.credly.com/badges/e2705e8b-1657-40bc-9e7d-d7d5c175eb5b "HashiCorp Certified: Terraform Associate (003)")
-[![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](http://www.credly.com/badges/e28707e2-1102-473f-84f7-406ac0167092 "AWS Certified Solutions Architect – Associate")
-[![AWS Certified Cloud Practitioner](https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](http://www.credly.com/badges/ac6dd20f-5b14-4db8-83f3-0b6451e87643 "AWS Certified Cloud Practitioner")
+<a href="https://www.credly.com/badges/5f432589-4435-436d-8436-d3e3b83984ef" title="AWS Certified Solutions Architect – Associate"><img src="https://images.credly.com/size/80x80/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect – Associate" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/1fa00a4e-e067-40a7-a0ae-400ff37cbc26" title="AWS Certified Cloud Practitioner"><img src="https://images.credly.com/size/80x80/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/f1a3d9b6-e5d8-46da-ad05-85711fc94d30" title="AWS Certified Solutions Architect – Professional"><img src="https://images.credly.com/size/80x80/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png" alt="AWS Certified Solutions Architect – Professional" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/41367965-e2ed-4166-bfb2-b413bcc8dcc8" title="AWS Knowledge: Architecting (Retired)"><img src="https://images.credly.com/size/80x80/images/519a6dba-f145-4c1a-85a2-1d173d6898d9/image.png" alt="AWS Knowledge: Architecting (Retired)" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/e2705e8b-1657-40bc-9e7d-d7d5c175eb5b" title="HashiCorp Certified: Terraform Associate (003)"><img src="https://images.credly.com/size/80x80/images/ed4be915-68f8-428a-b332-40ded9084ee5/blob" alt="HashiCorp Certified: Terraform Associate (003)" width="80" height="80"></a>
 <!--END_SECTION:badges-->
