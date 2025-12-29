@@ -64,6 +64,7 @@
 *  Hashicorp Certified: Terraform Associate(2025.01.)
 *  AWS Certified Solutions Architect - Professional(2025.07.)
 *  AWS Certified Security - Specialty(2025.07.)
+*  CKAD: Certified Kubernetes Application Developer(2025.12.)
   
 
 ## 🏅 My badges
