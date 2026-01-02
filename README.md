@@ -70,6 +70,7 @@
 
 ## 🏅 My badges
 <!--START_SECTION:badges-->
+<a href="https://www.credly.com/badges/81c22b8a-4f4c-4119-843b-03005b71547f" title="KCNA: Kubernetes and Cloud Native Associate"><img src="https://images.credly.com/size/80x80/images/f28f1d88-428a-47f6-95b5-7da1dd6c1000/KCNA_badge.png" alt="KCNA: Kubernetes and Cloud Native Associate" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/62b31b41-87cc-4868-871f-30ca7f6b1241" title="CKAD: Certified Kubernetes Application Developer"><img src="https://images.credly.com/size/80x80/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob" alt="CKAD: Certified Kubernetes Application Developer" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/0019121e-58ed-44a0-b0f4-0a7d9ef7ddbc" title="AWS Certified Security – Specialty"><img src="https://images.credly.com/size/80x80/images/53acdae5-d69f-4dda-b650-d02ed7a50dd7/image.png" alt="AWS Certified Security – Specialty" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/f1a3d9b6-e5d8-46da-ad05-85711fc94d30" title="AWS Certified Solutions Architect – Professional"><img src="https://images.credly.com/size/80x80/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png" alt="AWS Certified Solutions Architect – Professional" width="80" height="80"></a>
@@ -83,5 +84,4 @@
 <a href="https://www.credly.com/badges/35d1eaf5-f419-4420-a99e-9fe7e9fc3082" title="AWS Knowledge: Security Champion - Training Badge"><img src="https://images.credly.com/size/80x80/images/478cdcb9-9b92-4893-9c95-617ad0f28257/blob" alt="AWS Knowledge: Security Champion - Training Badge" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/8eec8f3c-0699-4bbe-ac21-ffccbb08236d" title="AWS Knowledge: Serverless - Training Badge"><img src="https://images.credly.com/size/80x80/images/0c20a5b7-b4e9-4c2f-8b68-342e00a85e05/blob" alt="AWS Knowledge: Serverless - Training Badge" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/73e98ef2-51f6-4a8c-a9fa-d6d8d01a7683" title="AWS Knowledge: Amazon Q Developer Fundamentals - Training Badge"><img src="https://images.credly.com/size/80x80/images/7c51f63c-14ef-4df9-a340-14938d05963a/blob" alt="AWS Knowledge: Amazon Q Developer Fundamentals - Training Badge" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/81c22b8a-4f4c-4119-843b-03005b71547f" title="KCNA: Kubernetes and Cloud Native Associate"><img src="https://images.credly.com/size/80x80/images/f28f1d88-428a-47f6-95b5-7da1dd6c1000/KCNA_badge.png" alt="KCNA: Kubernetes and Cloud Native Associate" width="80" height="80"></a>
 <!--END_SECTION:badges-->
