@@ -66,6 +66,7 @@
 *  AWS Certified Security - Specialty(2025.07.)
 *  CKAD: Certified Kubernetes Application Developer(2025.12.)
 *  KCNA: Kubernetes and Cloud Native Associate(2026.01.)
+*  AWS Certified Developer - Associate(2026.03.)
   
 
 ## 🏅 My badges
