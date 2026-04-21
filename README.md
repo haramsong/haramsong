@@ -67,6 +67,8 @@
 *  CKAD: Certified Kubernetes Application Developer(2025.12.)
 *  KCNA: Kubernetes and Cloud Native Associate(2026.01.)
 *  AWS Certified Developer - Associate(2026.03.)
+*  CKA: Certified Kubernetes Administrator(2026.04.)
+*  AWS Certified CloudOps Engineer - Associate(2026.04.)
   
 
 ## 🏅 My badges
