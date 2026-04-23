@@ -73,6 +73,7 @@
 
 ## 🏅 My badges
 
+<p align="left">
 <!--START_SECTION:badges-->
 <a href="https://www.credly.com/badges/d6e3a7d8-6aa1-4084-a436-ae607d6f9eed" title="CKA: Certified Kubernetes Administrator"><img src="https://images.credly.com/size/80x80/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" alt="CKA: Certified Kubernetes Administrator" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/81c22b8a-4f4c-4119-843b-03005b71547f" title="KCNA: Kubernetes and Cloud Native Associate"><img src="https://images.credly.com/size/80x80/images/f28f1d88-428a-47f6-95b5-7da1dd6c1000/KCNA_badge.png" alt="KCNA: Kubernetes and Cloud Native Associate" width="80" height="80"></a>
@@ -96,3 +97,4 @@
 <a href="https://www.credly.com/badges/ef6374b3-ac20-4a5b-9047-cfdea904b8cd" title="AWS Knowledge: Amazon Connect Fundamentals - Training Badge"><img src="https://images.credly.com/size/80x80/images/070a8f93-7b7d-46a7-aff3-2f56a3c528c8/blob" alt="AWS Knowledge: Amazon Connect Fundamentals - Training Badge" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/2b954d98-6915-41c0-a4a9-3b5b80e50b89" title="AWS Knowledge: AWS Graviton - Training Badge"><img src="https://images.credly.com/size/80x80/images/cdc2269d-dcee-48cf-af3e-6499e1ca37bb/blob" alt="AWS Knowledge: AWS Graviton - Training Badge" width="80" height="80"></a>
 <!--END_SECTION:badges-->
+</p>
