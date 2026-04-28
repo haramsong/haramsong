@@ -96,5 +96,6 @@
 <a href="https://www.credly.com/badges/57579f82-4f74-46d3-b2d5-9e97f0d60f74" title="AWS Knowledge: Amazon Connect Developer - Training Badge"><img src="https://images.credly.com/size/80x80/images/c2e730b8-ec46-40ff-b0d9-c3df3fa7d8cc/blob" alt="AWS Knowledge: Amazon Connect Developer - Training Badge" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/ef6374b3-ac20-4a5b-9047-cfdea904b8cd" title="AWS Knowledge: Amazon Connect Fundamentals - Training Badge"><img src="https://images.credly.com/size/80x80/images/070a8f93-7b7d-46a7-aff3-2f56a3c528c8/blob" alt="AWS Knowledge: Amazon Connect Fundamentals - Training Badge" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/2b954d98-6915-41c0-a4a9-3b5b80e50b89" title="AWS Knowledge: AWS Graviton - Training Badge"><img src="https://images.credly.com/size/80x80/images/cdc2269d-dcee-48cf-af3e-6499e1ca37bb/blob" alt="AWS Knowledge: AWS Graviton - Training Badge" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/07ffde61-4c90-4897-abd7-19e6eef1645b" title="Set Up an App Dev Environment on Google Cloud Skill Badge"><img src="https://images.credly.com/size/80x80/images/42326d44-14ff-4eda-b9c5-7d8f12919253/image.png" alt="Set Up an App Dev Environment on Google Cloud Skill Badge" width="80" height="80"></a>
 <!--END_SECTION:badges-->
 </p>
