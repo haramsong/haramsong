@@ -96,6 +96,7 @@
 [![AWS Knowledge: Amazon Connect Developer - Training Badge](https://images.credly.com/size/80x80/images/c2e730b8-ec46-40ff-b0d9-c3df3fa7d8cc/blob)](https://www.credly.com/badges/57579f82-4f74-46d3-b2d5-9e97f0d60f74)
 [![AWS Knowledge: Amazon Connect Fundamentals - Training Badge](https://images.credly.com/size/80x80/images/070a8f93-7b7d-46a7-aff3-2f56a3c528c8/blob)](https://www.credly.com/badges/ef6374b3-ac20-4a5b-9047-cfdea904b8cd)
 [![AWS Knowledge: AWS Graviton - Training Badge](https://images.credly.com/size/80x80/images/cdc2269d-dcee-48cf-af3e-6499e1ca37bb/blob)](https://www.credly.com/badges/2b954d98-6915-41c0-a4a9-3b5b80e50b89)
+[![AWS Agentic AI Demonstrated](https://images.credly.com/size/80x80/images/6f40bf38-1725-40d8-99a2-f6bb1bafec0e/blob)](https://www.credly.com/badges/348d4cb8-5acd-4838-93d1-cc7e5f738802)
 [![AWS Incident Response Demonstrated](https://images.credly.com/size/80x80/images/8dd6f516-0dd3-4b5e-aacf-8e86e737a95d/blob)](https://www.credly.com/badges/354dcf3a-2667-4d14-9ea8-b4ec4083038e)
 [![AWS Application Networking Demonstrated](https://images.credly.com/size/80x80/images/ed8cf03b-6269-4265-a65b-68e67e49ce6b/blob)](https://www.credly.com/badges/de6e7ef3-283a-4a98-b4c0-4d3acc225362)
 [![AWS Serverless Demonstrated](https://images.credly.com/size/80x80/images/b3885091-25bc-42d0-8989-34cca82f3056/blob)](https://www.credly.com/badges/39011054-4b74-4018-a245-5a83e7eb7e67)
