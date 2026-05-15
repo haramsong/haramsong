@@ -75,6 +75,7 @@
 
 <p align="left">
 <!--START_SECTION:badges-->
+
 [![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/80x80/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](https://www.credly.com/badges/d6e3a7d8-6aa1-4084-a436-ae607d6f9eed)
 [![KCNA: Kubernetes and Cloud Native Associate](https://images.credly.com/size/80x80/images/f28f1d88-428a-47f6-95b5-7da1dd6c1000/KCNA_badge.png)](https://www.credly.com/badges/81c22b8a-4f4c-4119-843b-03005b71547f)
 [![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/80x80/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob)](https://www.credly.com/badges/62b31b41-87cc-4868-871f-30ca7f6b1241)
@@ -103,5 +104,6 @@
 [![AWS Application Networking Demonstrated](https://images.credly.com/size/80x80/images/ed8cf03b-6269-4265-a65b-68e67e49ce6b/blob)](https://www.credly.com/badges/de6e7ef3-283a-4a98-b4c0-4d3acc225362)
 [![AWS Serverless Demonstrated](https://images.credly.com/size/80x80/images/b3885091-25bc-42d0-8989-34cca82f3056/blob)](https://www.credly.com/badges/39011054-4b74-4018-a245-5a83e7eb7e67)
 [![Set Up an App Dev Environment on Google Cloud Skill Badge](https://images.credly.com/size/80x80/images/42326d44-14ff-4eda-b9c5-7d8f12919253/image.png)](https://www.credly.com/badges/07ffde61-4c90-4897-abd7-19e6eef1645b)
+
 <!--END_SECTION:badges-->
 </p>
