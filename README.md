@@ -84,7 +84,7 @@
 [![AWS Certified Solutions Architect – Professional](https://images.credly.com/size/80x80/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png)](https://www.credly.com/badges/f1a3d9b6-e5d8-46da-ad05-85711fc94d30)
 [![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/80x80/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/badges/5f432589-4435-436d-8436-d3e3b83984ef)
 [![AWS Certified Cloud Practitioner](https://images.credly.com/size/80x80/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/ad4b1b4f-0294-4727-a9a6-5bd6a9e23e95)
-[![Professional Cloud Architect Certification](https://images.credly.com/size/80x80/images/71c579e0-51fd-4247-b493-d2fa8167157a/image.png)](https://www.credly.com/badges/d6eb6297-55d9-4550-aa47-15a853773cfe)
+[![Professional Cloud Architect Certification](https://images.credly.com/size/80x80/images/71c579e0-51fd-4247-b493-d2fa8167157a/image.png)](https://www.credly.com/badges/272fe925-381f-4dd1-93bf-abb5b0d0f1ea)
 [![HashiCorp Certified: Terraform Associate (003)](https://images.credly.com/size/80x80/images/0dc62494-dc94-469a-83af-e35309f27356/blob)](https://www.credly.com/badges/e2705e8b-1657-40bc-9e7d-d7d5c175eb5b)
 [![AWS Knowledge: Cloud Essentials - Training Badge](https://images.credly.com/size/80x80/images/7cf036b0-c609-4378-a7be-9969e1dea7ab/blob)](https://www.credly.com/badges/c354d673-2932-4f1f-a0c7-2d5eb68cde70)
 [![AWS Knowledge: Networking Core - Training Badge](https://images.credly.com/size/80x80/images/e1c202b1-bca1-469a-9149-127b4fe891d7/blob)](https://www.credly.com/badges/148ea57c-c461-4f76-bf25-a9422c92184e)
