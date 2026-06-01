@@ -57,7 +57,7 @@
 
 ## 🪪 Certificates
 
-*  TOEIC 925(2017.02.10.) / 890(2021.12.05) graded
+*  TOEIC 925(2017.02.)
 *  SQLD(2023.04.)
 *  AWS Certified Cloud Practicioner(2023.12.)
 *  AWS Certified Solutions Architect - Associate(2024.08.)
@@ -69,6 +69,8 @@
 *  AWS Certified Developer - Associate(2026.03.)
 *  CKA: Certified Kubernetes Administrator(2026.04.)
 *  AWS Certified CloudOps Engineer - Associate(2026.04.)
+*  Kubernetes and Cloud Native Security Associate(2026.05.)
+*  Google Cloud Professional Cloud Architect Certification(2026.05)
   
 
 ## 🏅 My badges
