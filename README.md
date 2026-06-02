@@ -99,6 +99,8 @@
 [![AWS Knowledge: Amazon Connect Developer - Training Badge](https://images.credly.com/size/80x80/images/c2e730b8-ec46-40ff-b0d9-c3df3fa7d8cc/blob)](https://www.credly.com/badges/57579f82-4f74-46d3-b2d5-9e97f0d60f74)
 [![AWS Knowledge: Amazon Connect Fundamentals - Training Badge](https://images.credly.com/size/80x80/images/070a8f93-7b7d-46a7-aff3-2f56a3c528c8/blob)](https://www.credly.com/badges/ef6374b3-ac20-4a5b-9047-cfdea904b8cd)
 [![AWS Knowledge: AWS Graviton - Training Badge](https://images.credly.com/size/80x80/images/cdc2269d-dcee-48cf-af3e-6499e1ca37bb/blob)](https://www.credly.com/badges/2b954d98-6915-41c0-a4a9-3b5b80e50b89)
+[![AWS Knowledge: AWS Transform Fundamentals – Training Badge](https://images.credly.com/size/80x80/images/29106d6c-bdac-4919-b9c0-c51403a7af92/blob)](https://www.credly.com/badges/fe301676-4781-4b68-8dc3-6ac7e2674d6f)
+[![AWS Knowledge: AI Driven Development Lifecycle Foundations – Training Badge](https://images.credly.com/size/80x80/images/ccfa18e3-4f8e-4e23-9e92-c88991e66b5d/blob)](https://www.credly.com/badges/cd997595-254b-475d-8930-0807c51a5daf)
 [![AWS Agentic AI Demonstrated](https://images.credly.com/size/80x80/images/6f40bf38-1725-40d8-99a2-f6bb1bafec0e/blob)](https://www.credly.com/badges/348d4cb8-5acd-4838-93d1-cc7e5f738802)
 [![AWS Application Networking Demonstrated](https://images.credly.com/size/80x80/images/ed8cf03b-6269-4265-a65b-68e67e49ce6b/blob)](https://www.credly.com/badges/de6e7ef3-283a-4a98-b4c0-4d3acc225362)
 [![AWS Incident Response Demonstrated](https://images.credly.com/size/80x80/images/8dd6f516-0dd3-4b5e-aacf-8e86e737a95d/blob)](https://www.credly.com/badges/354dcf3a-2667-4d14-9ea8-b4ec4083038e)
