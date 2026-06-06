@@ -78,7 +78,7 @@
 <!--START_SECTION:badges-->
 [![KCSA: Kubernetes and Cloud Native Security Associate](https://images.credly.com/size/80x80/images/67dd8a95-8876-4051-9cb9-3d97c204f85a/image.png)](https://www.credly.com/badges/b7cefe45-9016-4a9b-b3d5-88ee3cd465cc)
 [![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/80x80/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](https://www.credly.com/badges/d6e3a7d8-6aa1-4084-a436-ae607d6f9eed)
-[![KCNA: Kubernetes and Cloud Native Associate](https://images.credly.com/size/80x80/images/f28f1d88-428a-47f6-95b5-7da1dd6c1000/KCNA_badge.png)](https://www.credly.com/badges/81c22b8a-4f4c-4119-843b-03005b71547f)
+[![KCNA: Kubernetes and Cloud Native Associate](https://images.credly.com/size/80x80/images/f28f1d88-428a-47f6-95b5-7da1dd6c1000/KCNA_badge.png)](https://www.credly.com/badges/f51bb078-9d11-4419-b9c2-268c3c981ab9)
 [![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/80x80/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob)](https://www.credly.com/badges/62b31b41-87cc-4868-871f-30ca7f6b1241)
 [![AWS Certified CloudOps Engineer – Associate](https://images.credly.com/size/80x80/images/88a6405e-0f26-442a-95ed-f9b9db4c857e/blob)](https://www.credly.com/badges/48b09c53-12fb-4a29-8472-c7cc926fdc2f)
 [![AWS Certified Developer – Associate](https://images.credly.com/size/80x80/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png)](https://www.credly.com/badges/dad2d2ce-ebf4-4d05-b56d-1cc1de6d12a2)
