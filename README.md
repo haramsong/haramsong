@@ -76,6 +76,7 @@
 ## 🏅 My badges
 
 <!--START_SECTION:badges-->
+[![CKS: Certified Kubernetes Security Specialist](https://images.credly.com/size/80x80/images/9945dfcb-1cca-4529-85e6-db1be3782210/kubernetes-security-specialist-logo2.png)](https://www.credly.com/badges/e09a7332-4be7-452f-bacb-179265a75542)
 [![KCSA: Kubernetes and Cloud Native Security Associate](https://images.credly.com/size/80x80/images/67dd8a95-8876-4051-9cb9-3d97c204f85a/image.png)](https://www.credly.com/badges/b7cefe45-9016-4a9b-b3d5-88ee3cd465cc)
 [![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/80x80/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](https://www.credly.com/badges/d6e3a7d8-6aa1-4084-a436-ae607d6f9eed)
 [![KCNA: Kubernetes and Cloud Native Associate](https://images.credly.com/size/80x80/images/f28f1d88-428a-47f6-95b5-7da1dd6c1000/KCNA_badge.png)](https://www.credly.com/badges/f51bb078-9d11-4419-b9c2-268c3c981ab9)
@@ -111,8 +112,8 @@
 [![Deploy Kubernetes Applications on Google Cloud Skill Badge](https://images.credly.com/size/80x80/images/f0388a0c-130f-47cd-8750-d6357e907e58/image.png)](https://www.credly.com/badges/464c0693-9a08-40ca-9c4b-fcdde3192fde)
 [![Develop Serverless Applications on Cloud Run Skill Badge](https://images.credly.com/size/80x80/images/71b9b0df-64f1-4c0a-867f-942e2a5a5a14/image.png)](https://www.credly.com/badges/57991fbb-e5bd-485d-b059-eef86dc98484)
 [![Implement DevOps Workflows in Google Cloud Skill Badge](https://images.credly.com/size/80x80/images/7514501c-47e3-4766-a833-2f45eacdf615/image.png)](https://www.credly.com/badges/1f603f62-c78f-4af1-8937-8b744a4f855a)
+[![Build LookML Objects in Looker Skill Badge](https://images.credly.com/size/80x80/images/2607a61b-7f94-43d7-bb97-3e811312c53e/image.png)](https://www.credly.com/badges/362a9d30-4bf3-4ae7-ba35-09a7bbbb477d)
 [![Manage Data Models in Looker Skill Badge](https://images.credly.com/size/80x80/images/d405f3db-7764-4979-8ae4-004b47e5a497/image.png)](https://www.credly.com/badges/c93c1a0f-d7d5-44f2-822e-af67d2fb6acb)
-[![CKS: Certified Kubernetes Security Specialist](https://images.credly.com/size/80x80/images/9945dfcb-1cca-4529-85e6-db1be3782210/kubernetes-security-specialist-logo2.png)](https://www.credly.com/badges/e09a7332-4be7-452f-bacb-179265a75542)
 [![Cloud Speech API: 3 Ways Skill Badge](https://images.credly.com/size/80x80/images/4ddcd71a-7d89-4f86-bb85-adab564f16f1/image.png)](https://www.credly.com/badges/e1ea713a-58fa-489a-9f6a-6c71e29ad1c5)
 [![Configure Service Accounts and IAM Roles for Google Cloud Skill Badge](https://images.credly.com/size/80x80/images/374800df-53a7-407e-b660-1efa73da122a/image.png)](https://www.credly.com/badges/ce7e1ff8-8016-4eb9-b007-b9c645d960cd)
 [![Prepare Data for ML APIs on Google Cloud Skill Badge](https://images.credly.com/size/80x80/images/68756311-9319-4eeb-a2b7-76defc8dd8a2/image.png)](https://www.credly.com/badges/349e6ce7-c2a9-4ff6-8d61-7ac6f878ab91)
