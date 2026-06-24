@@ -77,7 +77,7 @@
 
 <!--START_SECTION:badges-->
 [![CKS: Certified Kubernetes Security Specialist](https://images.credly.com/size/80x80/images/9945dfcb-1cca-4529-85e6-db1be3782210/kubernetes-security-specialist-logo2.png)](https://www.credly.com/badges/e09a7332-4be7-452f-bacb-179265a75542)
-[![KCSA: Kubernetes and Cloud Native Security Associate](https://images.credly.com/size/80x80/images/67dd8a95-8876-4051-9cb9-3d97c204f85a/image.png)](https://www.credly.com/badges/b7cefe45-9016-4a9b-b3d5-88ee3cd465cc)
+[![KCSA: Kubernetes and Cloud Native Security Associate](https://images.credly.com/size/80x80/images/67dd8a95-8876-4051-9cb9-3d97c204f85a/image.png)](https://www.credly.com/badges/74b66b2c-249f-418c-8b71-a9fc3aeb8831)
 [![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/80x80/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](https://www.credly.com/badges/d6e3a7d8-6aa1-4084-a436-ae607d6f9eed)
 [![KCNA: Kubernetes and Cloud Native Associate](https://images.credly.com/size/80x80/images/f28f1d88-428a-47f6-95b5-7da1dd6c1000/KCNA_badge.png)](https://www.credly.com/badges/f51bb078-9d11-4419-b9c2-268c3c981ab9)
 [![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/80x80/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob)](https://www.credly.com/badges/62b31b41-87cc-4868-871f-30ca7f6b1241)
@@ -112,6 +112,8 @@
 [![Deploy Kubernetes Applications on Google Cloud Skill Badge](https://images.credly.com/size/80x80/images/f0388a0c-130f-47cd-8750-d6357e907e58/image.png)](https://www.credly.com/badges/464c0693-9a08-40ca-9c4b-fcdde3192fde)
 [![Develop Serverless Applications on Cloud Run Skill Badge](https://images.credly.com/size/80x80/images/71b9b0df-64f1-4c0a-867f-942e2a5a5a14/image.png)](https://www.credly.com/badges/57991fbb-e5bd-485d-b059-eef86dc98484)
 [![Implement DevOps Workflows in Google Cloud Skill Badge](https://images.credly.com/size/80x80/images/7514501c-47e3-4766-a833-2f45eacdf615/image.png)](https://www.credly.com/badges/1f603f62-c78f-4af1-8937-8b744a4f855a)
+[![Get Started with Google Workspace Tools Skill Badge](https://images.credly.com/size/80x80/images/7e78d94e-d10b-4699-a75a-96115b24c238/image.png)](https://www.credly.com/badges/88b3e65a-c719-49e8-844a-664d74ad2bb1)
+[![Integrate BigQuery Data and Google Workspace using Apps Script Skill Badge](https://images.credly.com/size/80x80/images/02190f6d-01c5-457d-9ac0-b7fe4f31c7e6/image.png)](https://www.credly.com/badges/a73a04aa-d9b4-4093-9731-2f33925b1961)
 [![Build LookML Objects in Looker Skill Badge](https://images.credly.com/size/80x80/images/2607a61b-7f94-43d7-bb97-3e811312c53e/image.png)](https://www.credly.com/badges/362a9d30-4bf3-4ae7-ba35-09a7bbbb477d)
 [![Manage Data Models in Looker Skill Badge](https://images.credly.com/size/80x80/images/d405f3db-7764-4979-8ae4-004b47e5a497/image.png)](https://www.credly.com/badges/c93c1a0f-d7d5-44f2-822e-af67d2fb6acb)
 [![Cloud Speech API: 3 Ways Skill Badge](https://images.credly.com/size/80x80/images/4ddcd71a-7d89-4f86-bb85-adab564f16f1/image.png)](https://www.credly.com/badges/e1ea713a-58fa-489a-9f6a-6c71e29ad1c5)
