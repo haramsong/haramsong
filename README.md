@@ -112,6 +112,7 @@
 [![Deploy Kubernetes Applications on Google Cloud Skill Badge](https://images.credly.com/size/80x80/images/f0388a0c-130f-47cd-8750-d6357e907e58/image.png)](https://www.credly.com/badges/464c0693-9a08-40ca-9c4b-fcdde3192fde)
 [![Develop Serverless Applications on Cloud Run Skill Badge](https://images.credly.com/size/80x80/images/71b9b0df-64f1-4c0a-867f-942e2a5a5a14/image.png)](https://www.credly.com/badges/57991fbb-e5bd-485d-b059-eef86dc98484)
 [![Implement DevOps Workflows in Google Cloud Skill Badge](https://images.credly.com/size/80x80/images/7514501c-47e3-4766-a833-2f45eacdf615/image.png)](https://www.credly.com/badges/1f603f62-c78f-4af1-8937-8b744a4f855a)
+[![Kubestronaut](https://images.credly.com/size/80x80/images/cd6c6449-6814-4613-a2d3-13cf4ac5be4f/image.png)](https://www.credly.com/badges/94d16e2c-9cd2-4b51-8a9e-c025abdcfe92)
 [![Get Started with Google Workspace Tools Skill Badge](https://images.credly.com/size/80x80/images/7e78d94e-d10b-4699-a75a-96115b24c238/image.png)](https://www.credly.com/badges/88b3e65a-c719-49e8-844a-664d74ad2bb1)
 [![Integrate BigQuery Data and Google Workspace using Apps Script Skill Badge](https://images.credly.com/size/80x80/images/02190f6d-01c5-457d-9ac0-b7fe4f31c7e6/image.png)](https://www.credly.com/badges/a73a04aa-d9b4-4093-9731-2f33925b1961)
 [![Build LookML Objects in Looker Skill Badge](https://images.credly.com/size/80x80/images/2607a61b-7f94-43d7-bb97-3e811312c53e/image.png)](https://www.credly.com/badges/362a9d30-4bf3-4ae7-ba35-09a7bbbb477d)
