@@ -28,6 +28,7 @@
 *  Able to design & implement system by procedural programming
 *  Hobby : Playing Instruments(Piano, Guitar(Acoustic, Electric), Drum)
 *  Watch my resume <a href="https://github.com/haramsong/haramsong">here</a><br>
+*  Kubestronaut(2026.06 ~)
    
 
 ## 🚧 My Projects
@@ -69,9 +70,10 @@
 *  AWS Certified Developer - Associate(2026.03.)
 *  CKA: Certified Kubernetes Administrator(2026.04.)
 *  AWS Certified CloudOps Engineer - Associate(2026.04.)
-*  Kubernetes and Cloud Native Security Associate(2026.05.)
-*  Google Cloud Professional Cloud Architect Certification(2026.05)
-  
+*  KCSA: Kubernetes and Cloud Native Security Associate(2026.05.)
+*  Google Cloud Professional Cloud Architect(2026.05)
+*  CKS: Certified Kubernetes Security Specialist(2026.06)
+
 
 ## 🏅 My badges
 
