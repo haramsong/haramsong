@@ -109,6 +109,9 @@
 [![AWS Knowledge: AWS Graviton - Training Badge](https://images.credly.com/size/80x80/images/cdc2269d-dcee-48cf-af3e-6499e1ca37bb/blob)](https://www.credly.com/badges/2b954d98-6915-41c0-a4a9-3b5b80e50b89)
 [![AWS Knowledge: AI Driven Development Lifecycle Foundations – Training Badge](https://images.credly.com/size/80x80/images/ccfa18e3-4f8e-4e23-9e92-c88991e66b5d/blob)](https://www.credly.com/badges/cd997595-254b-475d-8930-0807c51a5daf)
 [![AWS Knowledge: AWS Transform Fundamentals – Training Badge](https://images.credly.com/size/80x80/images/29106d6c-bdac-4919-b9c0-c51403a7af92/blob)](https://www.credly.com/badges/fe301676-4781-4b68-8dc3-6ac7e2674d6f)
+[![AWS SimuLearn - AI Practitioner - Training Badge](https://images.credly.com/size/80x80/images/198ccc47-6b2f-45c1-bff0-80b2c980ea40/blob)](https://www.credly.com/badges/0568ffb7-f7d4-4f61-83ae-a01e41fcc50d)
+[![AWS SimuLearn - Cloud Practitioner - Training Badge](https://images.credly.com/size/80x80/images/b6b54bbe-b797-49a3-b571-58ca96328b9b/blob)](https://www.credly.com/badges/03987a58-5da8-415a-acb8-397fe322d77a)
+[![AWS Cloud Quest: Cloud Practitioner - Training Badge](https://images.credly.com/size/80x80/images/30816e43-2550-4e1c-be22-3f03c5573bb9/blob)](https://www.credly.com/badges/456d89a4-54ef-4398-ac2e-e61b5e6fb412)
 [![AWS Educate Machine Learning Foundations - Training Badge](https://images.credly.com/size/80x80/images/247efe36-9fa6-4209-ad56-0fd522283872/blob)](https://www.credly.com/badges/c3049664-fcbc-42b2-bb61-d58681c246fb)
 [![AWS Educate Introduction to Cloud 101 - Training Badge](https://images.credly.com/size/80x80/images/e51a8579-188d-4363-8ed1-12ad164ef57b/blob)](https://www.credly.com/badges/98325339-febd-4637-a040-c133f9e05365)
 [![AWS Educate Getting Started with Compute - Training Badge](https://images.credly.com/size/80x80/images/7b08cc0e-064b-407d-b70e-323509c3e474/blob)](https://www.credly.com/badges/04dae200-1a65-42d4-a0ca-9be0e7d7dc7f)
@@ -123,7 +126,4 @@
 [![Cloud Technical Series: AI in Action Badge](https://images.credly.com/size/80x80/images/d7aa4e4e-42be-4013-8bd9-90db89b55da8/blob)](https://www.credly.com/badges/363c8ca0-d9fe-4250-969c-5a3a696a5ef9)
 [![The Basics of Google Cloud Compute Skill Badge](https://images.credly.com/size/80x80/images/7623fefd-ebbd-4d8f-a053-f41dca852d9e/image.png)](https://www.credly.com/badges/67aa5f0d-9118-4e03-860d-a475f182b33e)
 [![Get Started with Cloud Storage Skill Badge](https://images.credly.com/size/80x80/images/8fae0693-0a1a-4c15-b3b6-10b4104d0e30/image.png)](https://www.credly.com/badges/7d1f0825-7141-4f98-8cbf-de3a8b0f8a4e)
-[![Cloud Architecture: Design, Implement, and Manage Skill Badge](https://images.credly.com/size/80x80/images/746b172c-bdae-4bd9-b29b-eecfc9ad3577/image.png)](https://www.credly.com/badges/2d8da653-459a-4fb1-ac4a-64843d33e806)
-[![Deploy Kubernetes Applications on Google Cloud Skill Badge](https://images.credly.com/size/80x80/images/f0388a0c-130f-47cd-8750-d6357e907e58/image.png)](https://www.credly.com/badges/464c0693-9a08-40ca-9c4b-fcdde3192fde)
-[![Manage Kubernetes in Google Cloud Skill Badge](https://images.credly.com/size/80x80/images/20cd679d-43c3-460e-979a-8feba38eaba6/image.png)](https://www.credly.com/badges/06b0818f-6f40-48a7-a2a3-84620660d03a)
 <!--END_SECTION:badges-->
