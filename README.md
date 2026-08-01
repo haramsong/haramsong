@@ -125,5 +125,5 @@
 [![AWS Educate Getting Started with Networking - Training Badge](https://images.credly.com/size/80x80/images/f5095707-7683-4886-940c-3e8e4a2085ca/blob)](https://www.credly.com/badges/13708ff1-ec1e-491d-bd49-402a7316a09b)
 [![Cloud Technical Series: AI in Action Badge](https://images.credly.com/size/80x80/images/d7aa4e4e-42be-4013-8bd9-90db89b55da8/blob)](https://www.credly.com/badges/363c8ca0-d9fe-4250-969c-5a3a696a5ef9)
 [![The Basics of Google Cloud Compute Skill Badge](https://images.credly.com/size/80x80/images/7623fefd-ebbd-4d8f-a053-f41dca852d9e/image.png)](https://www.credly.com/badges/67aa5f0d-9118-4e03-860d-a475f182b33e)
-[![Get Started with Cloud Storage Skill Badge](https://images.credly.com/size/80x80/images/8fae0693-0a1a-4c15-b3b6-10b4104d0e30/image.png)](https://www.credly.com/badges/7d1f0825-7141-4f98-8cbf-de3a8b0f8a4e)
+[![Implement Cloud Storage and Data Protection Solutions](https://images.credly.com/size/80x80/images/88e2d83e-e9ab-4615-a98b-c8536869e4e6/blob)](https://www.credly.com/badges/7d1f0825-7141-4f98-8cbf-de3a8b0f8a4e)
 <!--END_SECTION:badges-->
