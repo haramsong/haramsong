@@ -73,6 +73,8 @@
 *  KCSA: Kubernetes and Cloud Native Security Associate(2026.05.)
 *  Google Cloud Professional Cloud Architect(2026.05)
 *  CKS: Certified Kubernetes Security Specialist(2026.06)
+*  AWS Certified AI Practitioner(2026.07)
+*  AWS Certified Data Engineer – Associate(2026.09)
 
 
 ## 🏅 My badges
