@@ -88,6 +88,7 @@
 [![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/80x80/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob)](https://www.credly.com/badges/62b31b41-87cc-4868-871f-30ca7f6b1241)
 [![AWS Certified Security – Specialty](https://images.credly.com/size/80x80/images/53acdae5-d69f-4dda-b650-d02ed7a50dd7/image.png)](https://www.credly.com/badges/0019121e-58ed-44a0-b0f4-0a7d9ef7ddbc)
 [![AWS Certified Solutions Architect – Professional](https://images.credly.com/size/80x80/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png)](https://www.credly.com/badges/f1a3d9b6-e5d8-46da-ad05-85711fc94d30)
+[![AWS Certified Data Engineer – Associate](https://images.credly.com/size/80x80/images/e5c85d7f-4e50-431e-b5af-fa9d9b0596e7/image.png)](https://www.credly.com/badges/91a2c227-c31a-4d0d-b105-8165c66d8721)
 [![AWS Certified CloudOps Engineer – Associate](https://images.credly.com/size/80x80/images/88a6405e-0f26-442a-95ed-f9b9db4c857e/blob)](https://www.credly.com/badges/48b09c53-12fb-4a29-8472-c7cc926fdc2f)
 [![AWS Certified Developer – Associate](https://images.credly.com/size/80x80/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png)](https://www.credly.com/badges/dad2d2ce-ebf4-4d05-b56d-1cc1de6d12a2)
 [![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/80x80/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/badges/5f432589-4435-436d-8436-d3e3b83984ef)
@@ -127,5 +128,4 @@
 [![AWS Educate Getting Started with Databases - Training Badge](https://images.credly.com/size/80x80/images/a08cf90b-9838-4f6c-82bd-8db85fb89dd5/blob)](https://www.credly.com/badges/218a025e-95bf-4453-b7bc-63d7ade2d04a)
 [![AWS Educate Getting Started with Networking - Training Badge](https://images.credly.com/size/80x80/images/f5095707-7683-4886-940c-3e8e4a2085ca/blob)](https://www.credly.com/badges/13708ff1-ec1e-491d-bd49-402a7316a09b)
 [![Cloud Technical Series: AI in Action Badge](https://images.credly.com/size/80x80/images/d7aa4e4e-42be-4013-8bd9-90db89b55da8/blob)](https://www.credly.com/badges/363c8ca0-d9fe-4250-969c-5a3a696a5ef9)
-[![The Basics of Google Cloud Compute Skill Badge](https://images.credly.com/size/80x80/images/7623fefd-ebbd-4d8f-a053-f41dca852d9e/image.png)](https://www.credly.com/badges/67aa5f0d-9118-4e03-860d-a475f182b33e)
 <!--END_SECTION:badges-->
