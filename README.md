@@ -75,6 +75,7 @@
 *  CKS: Certified Kubernetes Security Specialist(2026.06)
 *  AWS Certified AI Practitioner(2026.07)
 *  AWS Certified Data Engineer – Associate(2026.09)
+*  AWS Certified DevOps Engineer - Professional(2026.10.)
 
 
 ## 🏅 My badges
